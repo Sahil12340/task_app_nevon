@@ -1,0 +1,3 @@
+include ':greenDaoGenerator'
+include ':app', ':greendao'
+rootProject.name = "TaskApp"
